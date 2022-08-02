@@ -29,7 +29,7 @@ namespace Console_Entrada_dados
             {
                 Console.WriteLine("****Informe seu sexo corretamente ****");
                 Console.WriteLine("  (M) para Masculino ");
-                Console.WriteLine("  (F) para Feminino ");
+                Console.WriteLine("  (F) para Feminino1 ");
                 goto Rotulo_TextSexo;
             }
 
